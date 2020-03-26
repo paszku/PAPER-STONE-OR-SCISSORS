@@ -44,10 +44,12 @@ h3 {
     width: 280px;
     background-color: yellow;
     overflow: hidden;
+    cursor: pointer;
 }
 
 
 main {
+    /* font-size: 20px; */
     margin-top: 40px;
     padding-top: 30px;
     font-weight: bold;
@@ -55,7 +57,7 @@ main {
     width: 100%;
     background-color: khaki;
     overflow: hidden;
-    height: 150px;
+    height: 200px;
 }
 
 .result {
@@ -63,6 +65,7 @@ main {
     width: 50%;
     text-align: center;
     text-transform: uppercase;
+    height: 100%;
 
 }
 
