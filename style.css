@@ -7,6 +7,8 @@
 
 body {
     max-width: 1200px;
+    color: white;
+    background-color: black;
 }
 
 h1 {
@@ -42,4 +44,30 @@ h3 {
     width: 280px;
     background-color: yellow;
     overflow: hidden;
+}
+
+
+main {
+    margin-top: 40px;
+    padding-top: 30px;
+    font-weight: bold;
+    color: maroon;
+    width: 100%;
+    background-color: khaki;
+    overflow: hidden;
+    height: 150px;
+}
+
+.result {
+    float: left;
+    width: 50%;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+
+.results {
+    /* width: 49%; */
+    text-align: center;
 }
