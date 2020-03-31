@@ -1,7 +1,6 @@
 const btnScisors = document.querySelector('.scisors');
 const btnStone = document.querySelector('.stone');
 const btnPaper = document.querySelector('.paper');
-let myChoice;
 let draw = 0;
 let won = 0;
 let lost = 0;
